@@ -12,7 +12,6 @@ body{
     display: flex;
     justify-content: center;
     background-color: black;
-    margin: 10px;
 }
 
 .profileCard{
@@ -29,6 +28,7 @@ body{
     border: solid 1px #03a9f4;
     box-shadow: 0 0 15px rgba(3, 169, 244, 0.8);
     padding: 0%;
+    margin-bottom: 10px;
 }
 
 .profilePicture{
