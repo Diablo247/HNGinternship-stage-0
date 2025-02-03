@@ -19,7 +19,7 @@ body{
     top: 10px;
     background-color: rgba(3, 169, 244, 0.5);
     width: auto;
-    height: 667px;
+    height: auto;
     border-radius: 25px;
     display: flex;
     flex-direction: column;
